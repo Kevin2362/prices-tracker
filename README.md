@@ -7,3 +7,5 @@ Make sure you have Python installed, and you can install the requests library us
   
 Run the script using the following command:
   python crypto_tracker.py
+
+The script will display the current prices of the specified cryptocurrencies (Bitcoin, Ethereum, and Litecoin, in this case) every 10 seconds. You can add more cryptocurrencies to the cryptocurrencies list to track additional ones.
